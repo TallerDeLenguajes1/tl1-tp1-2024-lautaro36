@@ -11,6 +11,5 @@ El archivo .gitignore se debe crear antes de iniciar un repositorio Git. Es una 
 A que el puntero guarda la direccion de memoria de la variable a la que apunta.
 - **¿Que obtiene en el punto 4?**
 El punto 4 nos da la direccion de memoria de la variable puntero.
-### .gitignore ###
 - **¿Es igual a las anteriores?**
 No es igual porque la direccion de memoria de la variable referenciada y la del puntero son distintas.
